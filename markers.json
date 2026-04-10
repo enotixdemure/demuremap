@@ -10,6 +10,14 @@
     "x": -1727,
     "y": 794,
     "name": "Страховая компания - Demure",
-    "desc": "By Raccoon Мур!"
+    "desc": "By Raccoon Мур!",
+    "type": "stk"
+  },
+  {
+    "x": 604,
+    "y": -1513,
+    "name": "АЗС/Магазин механики №31",
+    "desc": "Владелец: Raccoon_Demure",
+    "type": "gaz"
   }
 ]

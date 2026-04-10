@@ -155,28 +155,32 @@
     "y": 1008,
     "name": "Закусочная №109",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky"
+    "type": "zaky",
+    "discount": 50
   },
   {
     "x": -2443,
     "y": 755,
     "name": "Закусочная №110",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky"
+    "type": "zaky",
+    "discount": 50
   },
   {
     "x": -2155,
     "y": -2460,
     "name": "Закусочная №114",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky"
+    "type": "zaky",
+    "discount": 50
   },
   {
     "x": 2186,
     "y": 1113,
     "name": "Бар №91",
     "desc": "Владелец: Tarik_Demure",
-    "type": "bar"
+    "type": "bar",
+    "discount": 50
   },
   {
     "x": 1288,
@@ -190,14 +194,16 @@
     "y": -2693,
     "name": "АЗС/Магазин механики №22",
     "desc": "Владелец: Aleksandr_Demure",
-    "type": "gaz"
+    "type": "gaz",
+    "discount": 50
   },
   {
     "x": -88,
     "y": 1378,
     "name": "Бар №86",
     "desc": "Владелец: Aleksandr_Demure",
-    "type": "bar"
+    "type": "bar",
+    "discount": 50
   },
   {
     "x": 1547,
@@ -233,6 +239,57 @@
     "name": "Магазин видеокарт №278",
     "desc": "Владелец: Aleksandr_Demure",
     "type": "cards"
+  },
+  {
+    "x": 1687,
+    "y": 1788,
+    "name": "Аренда транспорта №56",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "arenda"
+  },
+  {
+    "x": -2718,
+    "y": 50,
+    "name": "Магазин одежды №120",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "odez"
+  },
+  {
+    "x": -2713,
+    "y": 120,
+    "name": "Отель №142",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "hotel"
+  },
+  {
+    "x": 602,
+    "y": -1572,
+    "name": "Школа танцев №234",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "tanez"
+  },
+  {
+    "x": -53,
+    "y": 1189,
+    "name": "Закусочная №270",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "zaky",
+    "discount": 50
+  },
+  {
+    "x": -1912,
+    "y": 828,
+    "name": "Закусочная №271",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "zaky",
+    "discount": 50
+  },
+  {
+    "x": 995,
+    "y": -1156,
+    "name": "Отель №322",
+    "desc": "Владелец: Baxtovik_Demure",
+    "type": "hotel"
   },
   {
     "x": 0,

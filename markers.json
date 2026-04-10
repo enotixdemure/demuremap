@@ -151,6 +151,90 @@
     "type": "hotel"
   },
   {
+    "x": -2356,
+    "y": 1008,
+    "name": "Закусочная №109",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "zaky"
+  },
+  {
+    "x": -2443,
+    "y": 755,
+    "name": "Закусочная №110",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "zaky"
+  },
+  {
+    "x": -2155,
+    "y": -2460,
+    "name": "Закусочная №114",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "zaky"
+  },
+  {
+    "x": 2186,
+    "y": 1113,
+    "name": "Бар №91",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "bar"
+  },
+  {
+    "x": 1288,
+    "y": 315,
+    "name": "Центр обмена имуществом №438",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "chentr"
+  },
+  {
+    "x": -1623,
+    "y": -2693,
+    "name": "АЗС/Магазин механики №22",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "gaz"
+  },
+  {
+    "x": -88,
+    "y": 1378,
+    "name": "Бар №86",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "bar"
+  },
+  {
+    "x": 1547,
+    "y": -1269,
+    "name": "Отель №141",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "hotel"
+  },
+  {
+    "x": 1858,
+    "y": 2159,
+    "name": "Отель №300",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "hotel"
+  },
+  {
+    "x": 1081,
+    "y": -1696,
+    "name": "Магазин видеокарт №276",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "cards"
+  },
+  {
+    "x": -2717,
+    "y": 197,
+    "name": "Магазин видеокарт №277",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "cards"
+  },
+  {
+    "x": 2546,
+    "y": 1972,
+    "name": "Магазин видеокарт №278",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "cards"
+  },
+  {
     "x": 0,
     "y": 0,
     "name": "Парковочное место №125",

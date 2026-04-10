@@ -128,6 +128,29 @@
     "type": "park"
   },
   {
+    "x": 1381,
+    "y": 40,
+    "name": "АЗС/Магазин механики №261",
+    "desc": "Владелец: Raccoon_Demure",
+    "type": "gaz",
+    "discount": 50
+  },
+  {
+    "x": 2187,
+    "y": 2469,
+    "name": "Парковочное место №59",
+    "desc": "Владелец: Raccoon_Demure",
+    "type": "gaz",
+    "discount": 50
+  },
+  {
+    "x": -2166,
+    "y": 243,
+    "name": "Отель №155",
+    "desc": "Владелец: Raccoon_Demure",
+    "type": "hotel"
+  },
+  {
     "x": 0,
     "y": 0,
     "name": "Парковочное место №125",

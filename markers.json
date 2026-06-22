@@ -35,13 +35,6 @@
     "type": "arenda"
   },
   {
-    "x": -1013,
-    "y": -657,
-    "name": "Парковочные места (Комплекс)",
-    "desc": "№365 (Win_Bet), №366, №367 (Baxtovik_Demure), №369, №370, №371 (Raccoon_Demure), №376, №381 (Feo_Zotti), №377 (Victoria_Demure), №379 (Hazard_Demure), №384, №389, №395 (Aleksandr_Demure)",
-    "type": "park"
-  },
-  {
     "x": 1381,
     "y": 40,
     "name": "АЗС/Магазин механики №261",

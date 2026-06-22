@@ -35,94 +35,10 @@
     "type": "arenda"
   },
   {
-    "x": -1006,
-    "y": -638,
-    "name": "Парковочное место №376",
-    "desc": "Владелец: Feo_Zotti",
-    "type": "park"
-  },
-  {
-    "x": -1006,
-    "y": -643,
-    "name": "Парковочное место №377",
-    "desc": "Владелец: Victoria_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1006,
-    "y": -653,
-    "name": "Парковочное место №379",
-    "desc": "Владелец: Hazard_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1007,
-    "y": -663,
-    "name": "Парковочное место №381",
-    "desc": "Владелец: Feo_Zotti",
-    "type": "park"
-  },
-  {
-    "x": -1006,
-    "y": -678,
-    "name": "Парковочное место №384",
-    "desc": "Владелец: Aleksandr_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1000,
-    "y": -671,
-    "name": "Парковочное место №395",
-    "desc": "Владелец: Aleksandr_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1000,
-    "y": -641,
-    "name": "Парковочное место №389",
-    "desc": "Владелец: Aleksandr_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1030,
-    "y": -648,
-    "name": "Парковочное место №365",
-    "desc": "Владелец: Win_Bet",
-    "type": "park"
-  },
-  {
-    "x": -1029,
-    "y": -653,
-    "name": "Парковочное место №366",
-    "desc": "Владелец: Baxtovik_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1030,
-    "y": -658,
-    "name": "Парковочное место №367",
-    "desc": "Владелец: Baxtovik_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1030,
-    "y": -669,
-    "name": "Парковочное место №369",
-    "desc": "Владелец: Raccoon_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1030,
-    "y": -673,
-    "name": "Парковочное место №370",
-    "desc": "Владелец: Raccoon_Demure",
-    "type": "park"
-  },
-  {
-    "x": -1030,
-    "y": -679,
-    "name": "Парковочное место №371",
-    "desc": "Владелец: Raccoon_Demure",
+    "x": -1013,
+    "y": -657,
+    "name": "Парковочные места (Комплекс)",
+    "desc": "№365 (Win_Bet), №366, №367 (Baxtovik_Demure), №369, №370, №371 (Raccoon_Demure), №376, №381 (Feo_Zotti), №377 (Victoria_Demure), №379 (Hazard_Demure), №384, №389, №395 (Aleksandr_Demure)",
     "type": "park"
   },
   {

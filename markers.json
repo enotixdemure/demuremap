@@ -3,7 +3,7 @@
     "x": -1727,
     "y": 794,
     "name": "Страховая компания - Demure",
-    "desc": "By Raccoon Мур!",
+    "desc": "By Raccoon",
     "type": "stk"
   },
   {
@@ -11,16 +11,14 @@
     "y": -1513,
     "name": "АЗС/Магазин механики №31",
     "desc": "Владелец: Raccoon_Demure",
-    "type": "gaz",
-    "discount": 50
+    "type": "gaz"
   },
   {
     "x": -1735,
     "y": 896,
     "name": "Магазин 24/7 №102",
     "desc": "Владелец: Raccoon_Demure",
-    "type": "247",
-    "discount": 50
+    "type": "247"
   },
   {
     "x": -1694,
@@ -132,16 +130,14 @@
     "y": 40,
     "name": "АЗС/Магазин механики №261",
     "desc": "Владелец: Raccoon_Demure",
-    "type": "gaz",
-    "discount": 50
+    "type": "gaz"
   },
   {
     "x": 2187,
     "y": 2469,
     "name": "АЗС/Магазин механики №59",
     "desc": "Владелец: Raccoon_Demure",
-    "type": "gaz",
-    "discount": 50
+    "type": "gaz"
   },
   {
     "x": -2166,
@@ -155,32 +151,28 @@
     "y": 1008,
     "name": "Закусочная №109",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky",
-    "discount": 50
+    "type": "zaky"
   },
   {
     "x": -2443,
     "y": 755,
     "name": "Закусочная №110",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky",
-    "discount": 50
+    "type": "zaky"
   },
   {
     "x": -2155,
     "y": -2460,
     "name": "Закусочная №114",
     "desc": "Владелец: Tarik_Demure",
-    "type": "zaky",
-    "discount": 50
+    "type": "zaky"
   },
   {
     "x": 2186,
     "y": 1113,
     "name": "Бар №91",
     "desc": "Владелец: Tarik_Demure",
-    "type": "bar",
-    "discount": 50
+    "type": "bar"
   },
   {
     "x": 1288,
@@ -194,16 +186,7 @@
     "y": -2693,
     "name": "АЗС/Магазин механики №22",
     "desc": "Владелец: Aleksandr_Demure",
-    "type": "gaz",
-    "discount": 50
-  },
-  {
-    "x": -88,
-    "y": 1378,
-    "name": "Бар №86",
-    "desc": "Владелец: Aleksandr_Demure",
-    "type": "bar",
-    "discount": 50
+    "type": "gaz"
   },
   {
     "x": 1547,
@@ -273,24 +256,21 @@
     "y": 1189,
     "name": "Закусочная №270",
     "desc": "Владелец: Baxtovik_Demure",
-    "type": "zaky",
-    "discount": 50
+    "type": "zaky"
   },
   {
     "x": -1912,
     "y": 828,
     "name": "Закусочная №271",
     "desc": "Владелец: Baxtovik_Demure",
-    "type": "zaky",
-    "discount": 50
+    "type": "zaky"
   },
   {
     "x": 1031,
     "y": 1354,
     "name": "АЗС/Магазин механики №285",
     "desc": "Владелец: Baxtovik_Demure",
-    "type": "gaz",
-    "discount": 50
+    "type": "gaz"
   },
   {
     "x": 995,
@@ -305,5 +285,278 @@
     "name": "Парковочное место №125",
     "desc": "Владелец: Raccoon_Demure",
     "type": "park"
+  },
+  {
+    "x": 2421,
+    "y": -1223,
+    "name": "BAR №3",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "bar"
+  },
+  {
+    "x": 1038,
+    "y": -1337,
+    "name": "Закусочная №50",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "zakys"
+  },
+  {
+    "x": 1162,
+    "y": -1690,
+    "name": "Закупка №353",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "zakyp"
+  },
+  {
+    "x": -2164,
+    "y": -2418,
+    "name": "Закупка №17",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "zakyp"
+  },
+  {
+    "x": 2637,
+    "y": 1672,
+    "name": "Закусочная №80",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "zakys"
+  },
+  {
+    "x": 1276,
+    "y": -1319,
+    "name": "Отель №145",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "hotel"
+  },
+  {
+    "x": -2105,
+    "y": -2342,
+    "name": "Закусочная №358",
+    "desc": "Владелец: Hazard_Demure",
+    "type": "zakys"
+  },
+  {
+    "x": -1998,
+    "y": 581,
+    "name": "СТО №308",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "sto"
+  },
+  {
+    "x": 190,
+    "y": -281,
+    "name": "Ларек №208",
+    "desc": "Владелец: Tarik_Demure",
+    "type": "larek"
+  },
+  {
+    "x": 2173,
+    "y": 535,
+    "name": "АЗС №250",
+    "desc": "Владелец: Ivan_Demure",
+    "type": "azs"
+  },
+  {
+    "x": 156,
+    "y": -1812,
+    "name": "Аренда №53",
+    "desc": "Владелец: Win_Bet",
+    "type": "arenda"
+  },
+  {
+    "x": 2260,
+    "y": 2042,
+    "name": "Аренда №55",
+    "desc": "Владелец: Win_Bet",
+    "type": "arenda"
+  },
+  {
+    "x": 2561,
+    "y": 1875,
+    "name": "Закупка №75",
+    "desc": "Владелец: Win_Bet",
+    "type": "zakyp"
+  },
+  {
+    "x": -94,
+    "y": 1193,
+    "name": "BAR №87",
+    "desc": "Владелец: Win_Bet",
+    "type": "bar"
+  },
+  {
+    "x": 2398,
+    "y": -1899,
+    "name": "Закусочная №167",
+    "desc": "Владелец: Win_Bet",
+    "type": "zakys"
+  },
+  {
+    "x": 436,
+    "y": 322,
+    "name": "АЗС №253",
+    "desc": "Владелец: Win_Bet",
+    "type": "azs"
+  },
+  {
+    "x": -736,
+    "y": 2748,
+    "name": "АЗС №355",
+    "desc": "Владелец: Win_Bet",
+    "type": "azs"
+  },
+  {
+    "x": -1581,
+    "y": -1553,
+    "name": "АЗС №25",
+    "desc": "Владелец: Nays_Demure",
+    "type": "azs"
+  },
+  {
+    "x": 561,
+    "y": -1287,
+    "name": "Аренда №39",
+    "desc": "Владелец: Nays_Demure",
+    "type": "arenda"
+  },
+  {
+    "x": 1597,
+    "y": 2222,
+    "name": "АЗС №60",
+    "desc": "Владелец: Nays_Demure",
+    "type": "azs"
+  },
+  {
+    "x": 2623,
+    "y": 2321,
+    "name": "Отель №151",
+    "desc": "Владелец: Nays_Demure",
+    "type": "hotel"
+  },
+  {
+    "x": 1947,
+    "y": 2069,
+    "name": "АЗС №288",
+    "desc": "Владелец: Nays_Demure",
+    "type": "azs"
+  },
+  {
+    "x": 998,
+    "y": 825,
+    "name": "АЗС №359",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "azs"
+  },
+  {
+    "x": 148,
+    "y": -182,
+    "name": "BAR №86",
+    "desc": "Владелец: Aleksandr_Demure",
+    "type": "bar"
+  },
+  {
+    "x": -1351,
+    "y": 2056,
+    "name": "Рыбалка №324",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "ribak"
+  },
+  {
+    "x": -2220,
+    "y": 2287,
+    "name": "Рыбалка №327",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "ribak"
+  },
+  {
+    "x": -2056,
+    "y": -2469,
+    "name": "Рыбалка №325",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "ribak"
+  },
+  {
+    "x": 1562,
+    "y": 23,
+    "name": "Рыбалка №326",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "ribak"
+  },
+  {
+    "x": 413,
+    "y": 1425,
+    "name": "Вышка №333",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "vishka"
+  },
+  {
+    "x": 2333,
+    "y": 75,
+    "name": "Закусочная №169",
+    "desc": "Владелец: Astra_Reckless",
+    "type": "zakys"
+  },
+  {
+    "x": 243,
+    "y": -178,
+    "name": "Аммуниция №2",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "ammo"
+  },
+  {
+    "x": 203,
+    "y": -202,
+    "name": "Закусочная №168",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "zakys"
+  },
+  {
+    "x": 172,
+    "y": -201,
+    "name": "Закупка №11",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "zakyp"
+  },
+  {
+    "x": -1680,
+    "y": -28,
+    "name": "Электростанция №440",
+    "desc": "Владелец: Yan_Reckless",
+    "type": "electro"
+  },
+  {
+    "x": -1712,
+    "y": -59,
+    "name": "Электростанция №442",
+    "desc": "Владелец: Astra_Reckless",
+    "type": "electro"
+  },
+  {
+    "x": 1319,
+    "y": -896,
+    "name": "Закупка №7",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "zakyp"
+  },
+  {
+    "x": 695,
+    "y": -490,
+    "name": "Магазин одежды №12",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "odez"
+  },
+  {
+    "x": -2010,
+    "y": -30,
+    "name": "Закупка №176",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "zakyp"
+  },
+  {
+    "x": -3184,
+    "y": -366,
+    "name": "Вышка",
+    "desc": "Владелец: Feo_Zotti",
+    "type": "vishka"
   }
 ]

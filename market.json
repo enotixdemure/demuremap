@@ -1,0 +1,74 @@
+[
+  {
+    "category": "экипировка",
+    "title": "Сет Аксессуаров 9 шт. (Full-set)",
+    "image": "photo/market/item1.jpg",
+    "tags": ["Заточка +12", "Full Урон"],
+    "price": "15.000.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "экипировка",
+    "title": "Комплект \"Орион\"",
+    "image": "photo/market/item2.jpg",
+    "tags": ["Броня Класса А", "Повыш. Защита"],
+    "price": "18.000.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "недвижимость",
+    "title": "Дом с Майнинг-фермой и Депозитом",
+    "image": "photo/market/item3.jpg",
+    "tags": ["Майнеры 7lvl", "Подвал"],
+    "price": "45.000.000",
+    "period": "/ неделя",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "недвижимость",
+    "title": "Элитная Теплица \"Сады Эдема\"",
+    "image": "photo/market/item4.jpg",
+    "tags": ["Теплицы", "Оборуд. для крафта"],
+    "price": "10.000.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "транспорт",
+    "title": "Rolls-Royce Cullinan (Mansory)",
+    "image": "photo/market/item5.jpg",
+    "tags": ["Mansory Bodykit", "TwinTurbo V2"],
+    "price": "15.000.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "экипировка",
+    "title": "Рука Экзоскелета \"Титан\"",
+    "image": "photo/market/item6.jpg",
+    "tags": ["Повыш. Сила", "Крит. Урон"],
+    "price": "7.500.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "недвижимость",
+    "title": "Дом под Депозит (Х7 Улучшение)",
+    "image": "photo/market/item7.jpg",
+    "tags": ["Депозит условия", "Макс Процент"],
+    "price": "25.000.000",
+    "period": "/ месяц",
+    "link": "https://t.me/твой_юзернейм"
+  },
+  {
+    "category": "транспорт",
+    "title": "Lamborghini Aventador SVJ",
+    "image": "photo/market/item8.jpg",
+    "tags": ["Спорткар", "Тюнинг FTT"],
+    "price": "12.000.000",
+    "period": "/ день",
+    "link": "https://t.me/твой_юзернейм"
+  }
+]

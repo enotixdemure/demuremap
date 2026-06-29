@@ -1,0 +1,80 @@
+[
+  {
+    "id": "raccoon-1",
+    "name": "RACCOON DEMURE",
+    "rank": "👑 Family Leader | Лидер Семьи",
+    "avatar": "photo/raccoon.png",
+    "quote": "«Семья - это не просто кровь. Это крепость, где каждый кирпич - наше общее achievement и сила.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "1.000.000.000.000 $",
+      "dailyIncome": "~ 600 M $",
+      "housesCount": 12,
+      "miningFarmsCount": 12,
+      "additionalCompany": {
+        "icon": "🏢",
+        "title": "Страховая компания",
+        "status": "Активна",
+        "count": 1
+      },
+      "businesses": [
+        { "id": "АЗС №31", "location": "г. Лос-Сантос", "income": "+25M $ / день", "value": "~ 45 M $" },
+        { "id": "АЗС №59", "location": "Ковтский округ", "income": "+25M $ / день", "value": "~ 38 M $" },
+        { "id": "Магазин 24/7 №102", "location": "Гевяский район", "income": "+25M $ / день", "value": "~ 75 M $" },
+        { "id": "Магазин одежды №119", "location": "Каммский пляж", "income": "+25M $ / день", "value": "~ 18 M $" },
+        { "id": "Аренда транспорта №125", "location": "Центр Мосотопии", "income": "+25M $ / день", "value": "~ 28 M $" },
+        { "id": "Отель №155", "location": "Пригород", "income": "+25M $ / день", "value": "~ 50 M $" },
+        { "id": "АЗС №261", "location": "Трасса С-12", "income": "+25M $ / день", "value": "~ 12 M $" }
+      ],
+      "cars": [
+        { "name": "Rolls-Royce Cullinan Mansory", "plate": "DELEWARE" },
+        { "name": "CyberTruck Mansory", "plate": "DELEWARE" },
+        { "name": "Pagani Huayra", "plate": "DELEWARE" },
+        { "name": "Hover Formula", "plate": "DELEWARE" },
+        { "name": "McLaren Senna", "plate": "DELEWARE" }
+      ]
+    }
+  },
+  {
+    "id": "raccoon-2",
+    "name": "RACCOON MUR",
+    "rank": "ТВИНК ЛИДЕРА",
+    "avatar": "",
+    "quote": "«Вторая тень всегда следует за источником света.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "250.000.000.000 $",
+      "dailyIncome": "~ 300 M $",
+      "housesCount": 10,
+      "miningFarmsCount": 10,
+      "additionalCompany": {
+        "icon": "🏢",
+        "title": "Varios Los Aztecas",
+        "status": "Активна",
+        "count": 1
+      },
+      "businesses": [],
+      "cars": [
+        { "name": "Naran Hyper", "plate": "DELEWARE" }
+      ]
+    }
+  },
+  {
+    "id": "avrora-3",
+    "name": "AVRORA DEMURE",
+    "rank": "GIRLS / УЧАСТНИЦА",
+    "avatar": "",
+    "quote": "«Надеюсь, однажды ты полюбишь кого-то. Полюбишь так сильно... Прежде чем я заберу ее у тебя...»",
+    "isGirl": true,
+    "registry": null
+  },
+  {
+    "id": "astra-4",
+    "name": "ASTRA RECKLESS",
+    "rank": "GIRLS / УЧАСТНИЦА",
+    "avatar": "",
+    "quote": "«Одна ошибка - и ты ошибся»",
+    "isGirl": true,
+    "registry": null
+  }
+]

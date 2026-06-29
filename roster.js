@@ -1,4 +1,4 @@
-[
+window.rosterData = [
   {
     "id": "raccoon-1",
     "name": "RACCOON DEMURE",
@@ -77,4 +77,4 @@
     "isGirl": true,
     "registry": null
   }
-]
+];

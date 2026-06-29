@@ -39,7 +39,7 @@
     "id": "raccoon-2",
     "name": "RACCOON MUR",
     "rank": "ТВИНК ЛИДЕРА",
-    "avatar": "",
+    "avatar": "raccoonmur.png",
     "quote": "«Вторая тень всегда следует за источником света.»",
     "isGirl": false,
     "registry": {
@@ -60,93 +60,289 @@
     }
   },
   {
-    "id": "raccoon-3",
-    "name": "RACCOON MUR",
-    "rank": "ТВИНК ЛИДЕРА",
-    "avatar": "",
-    "quote": "«Вторая тень всегда следует за источником света.»",
+    "id": "matvey-modal",
+    "name": "MATVEY DEMURE",
+    "rank": "Заместитель семьи",
+    "avatar": "Matvey.png",
+    "quote": "«Где не проедут менты-УАЗы, там пролетят замы с СТК»",
     "isGirl": false,
     "registry": {
-      "totalWealth": "250.000.000.000 $",
-      "dailyIncome": "~ 300 M $",
-      "housesCount": 10,
-      "miningFarmsCount": 10,
-      "additionalCompany": {
-        "icon": "🏢",
-        "title": "Varios Los Aztecas",
-        "status": "Активна",
-        "count": 1
-      },
+      "totalWealth": "0 $",
+      "dailyIncome": "0 $",
+      "housesCount": 0,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
       "businesses": [],
+      "cars": []
+    }
+  },
+  {
+    "id": "hazard-modal",
+    "name": "HAZARD DEMURE",
+    "rank": "Заместитель семьи",
+    "avatar": "Hazard.png",
+    "quote": "«Работа не волк а Work»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 12,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №3", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №17", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №50", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №80", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №145", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №353", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №358", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
       "cars": [
-        { "name": "Naran Hyper", "plate": "DELEWARE" }
+        { "name": "Off-Road Buhanka", "plate": "" },
+        { "name": "Lamborghini Urus Mansory", "plate": "" },
+        { "name": "Rolls-Royce Spectre Mansory", "plate": "" }
       ]
     }
   },
   {
-    "id": "raccoon-4",
-    "name": "RACCOON MUR",
-    "rank": "ТВИНК ЛИДЕРА",
-    "avatar": "",
-    "quote": "«Вторая тень всегда следует за источником света.»",
+    "id": "tarik-modal",
+    "name": "TARIK DEMURE",
+    "rank": "Заместитель семьи",
+    "avatar": "Tarik.png",
+    "quote": "«Дрался как Лев, били как собаку.»",
     "isGirl": false,
     "registry": {
-      "totalWealth": "250.000.000.000 $",
-      "dailyIncome": "~ 300 M $",
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
       "housesCount": 10,
-      "miningFarmsCount": 10,
-      "additionalCompany": {
-        "icon": "🏢",
-        "title": "Varios Los Aztecas",
-        "status": "Активна",
-        "count": 1
-      },
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №91", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №109", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №110", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №114", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №208", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №308", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №438", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "ivan-modal",
+    "name": "IVAN DEMURE",
+    "rank": "9 Aztec",
+    "avatar": "ivan.png",
+    "quote": "«Жизнь игра - Так играй красиво!»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 1,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №250", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "shket-modal",
+    "name": "SHKET DEMURE",
+    "rank": "9 Aztec",
+    "avatar": "Shket.png",
+    "quote": "«Неудачникам суждено умереть»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "0 $",
+      "dailyIncome": "0 $",
+      "housesCount": 0,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
       "businesses": [],
+      "cars": []
+    }
+  },
+  {
+    "id": "winbet-modal",
+    "name": "WIN BET",
+    "rank": "9 Страховая компания",
+    "avatar": "winbet.png",
+    "quote": "«Риск - это цена, которую мы платим за возможность победить.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 0,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №53", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №55", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №75", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №87", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №167", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №253", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №355", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "nays-modal",
+    "name": "NAYS DEMURE",
+    "rank": "Близкий друг Raccoon Demure",
+    "avatar": "nays.png",
+    "quote": "«Хей гайс! С вами дядя найз и у меня всё найс!»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 0,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №25", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №39", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №60", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №151", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №288", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "aleksandr-modal",
+    "name": "ALEKSANDR DEMURE",
+    "rank": "Участник семьи",
+    "avatar": "Aleksandr.png",
+    "quote": "«Тяжелая работа побеждает талант, когда талант не работает усердно»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 13,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №22", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №86", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №141", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №276", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №277", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №278", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №300", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №359", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "yan-modal",
+    "name": "YAN RECKLESS",
+    "rank": "Участник семьи",
+    "avatar": "yan.png",
+    "quote": "«Одна ошибка - и ты ошибся»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 14,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №324", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №325", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №326", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №327", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №333", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №440", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
+  },
+  {
+    "id": "feo-modal",
+    "name": "FEO ZOTTI",
+    "rank": "Участник семьи",
+    "avatar": "feo.png",
+    "quote": "«Успех не приходит к тем, кто ждет. Он приходит к тем, кто забирает свое.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 15,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №2", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №7", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №11", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №12", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №168", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №176", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №244", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
       "cars": [
-        { "name": "Naran Hyper", "plate": "DELEWARE" }
+        { "name": "Brabus Adventure", "plate": "" }
       ]
     }
   },
   {
-    "id": "raccoon-5",
-    "name": "RACCOON MUR",
-    "rank": "ТВИНК ЛИДЕРА",
-    "avatar": "",
-    "quote": "«Вторая тень всегда следует за источником света.»",
+    "id": "finik-modal",
+    "name": "FINIK LIME",
+    "rank": "Участник семьи",
+    "avatar": "finik.png",
+    "quote": "«Не тот богат, у кого много, а тот, кому хватает»",
     "isGirl": false,
     "registry": {
-      "totalWealth": "250.000.000.000 $",
-      "dailyIncome": "~ 300 M $",
-      "housesCount": 10,
-      "miningFarmsCount": 10,
-      "additionalCompany": {
-        "icon": "🏢",
-        "title": "Varios Los Aztecas",
-        "status": "Активна",
-        "count": 1
-      },
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 1,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
       "businesses": [],
-      "cars": [
-        { "name": "Naran Hyper", "plate": "DELEWARE" }
-      ]
+      "cars": []
     }
   },
   {
     "id": "avrora-3",
     "name": "AVRORA DEMURE",
     "rank": "GIRLS / УЧАСТНИЦА",
-    "avatar": "",
+    "avatar": "avrora.png",
     "quote": "«Надеюсь, однажды ты полюбишь кого-то. Полюбишь так сильно... Прежде чем я заберу ее у тебя...»",
     "isGirl": true,
-    "registry": null
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 1,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [],
+      "cars": []
+    }
   },
   {
     "id": "astra-4",
     "name": "ASTRA RECKLESS",
     "rank": "GIRLS / УЧАСТНИЦА",
-    "avatar": "",
+    "avatar": "astra.png",
     "quote": "«Одна ошибка - и ты ошибся»",
     "isGirl": true,
-    "registry": null
+    "registry": {
+      "totalWealth": "Данные отсутствуют",
+      "dailyIncome": "Данные отсутствуют",
+      "housesCount": 13,
+      "miningFarmsCount": 0,
+      "additionalCompany": null,
+      "businesses": [
+        { "id": "Бизнес №169", "location": "Не указано", "income": "Не указано", "value": "Не указано" },
+        { "id": "Бизнес №442", "location": "Не указано", "income": "Не указано", "value": "Не указано" }
+      ],
+      "cars": []
+    }
   }
 ]

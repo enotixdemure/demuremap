@@ -60,6 +60,78 @@
     }
   },
   {
+    "id": "raccoon-2",
+    "name": "RACCOON MUR",
+    "rank": "ТВИНК ЛИДЕРА",
+    "avatar": "",
+    "quote": "«Вторая тень всегда следует за источником света.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "250.000.000.000 $",
+      "dailyIncome": "~ 300 M $",
+      "housesCount": 10,
+      "miningFarmsCount": 10,
+      "additionalCompany": {
+        "icon": "🏢",
+        "title": "Varios Los Aztecas",
+        "status": "Активна",
+        "count": 1
+      },
+      "businesses": [],
+      "cars": [
+        { "name": "Naran Hyper", "plate": "DELEWARE" }
+      ]
+    }
+  },
+  {
+    "id": "raccoon-2",
+    "name": "RACCOON MUR",
+    "rank": "ТВИНК ЛИДЕРА",
+    "avatar": "",
+    "quote": "«Вторая тень всегда следует за источником света.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "250.000.000.000 $",
+      "dailyIncome": "~ 300 M $",
+      "housesCount": 10,
+      "miningFarmsCount": 10,
+      "additionalCompany": {
+        "icon": "🏢",
+        "title": "Varios Los Aztecas",
+        "status": "Активна",
+        "count": 1
+      },
+      "businesses": [],
+      "cars": [
+        { "name": "Naran Hyper", "plate": "DELEWARE" }
+      ]
+    }
+  },
+  {
+    "id": "raccoon-2",
+    "name": "RACCOON MUR",
+    "rank": "ТВИНК ЛИДЕРА",
+    "avatar": "",
+    "quote": "«Вторая тень всегда следует за источником света.»",
+    "isGirl": false,
+    "registry": {
+      "totalWealth": "250.000.000.000 $",
+      "dailyIncome": "~ 300 M $",
+      "housesCount": 10,
+      "miningFarmsCount": 10,
+      "additionalCompany": {
+        "icon": "🏢",
+        "title": "Varios Los Aztecas",
+        "status": "Активна",
+        "count": 1
+      },
+      "businesses": [],
+      "cars": [
+        { "name": "Naran Hyper", "plate": "DELEWARE" }
+      ]
+    }
+  },
+  {
     "id": "avrora-3",
     "name": "AVRORA DEMURE",
     "rank": "GIRLS / УЧАСТНИЦА",

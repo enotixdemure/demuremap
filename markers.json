@@ -478,8 +478,22 @@
   {
     "x": -3184,
     "y": -366,
-    "name": "Вышка",
+    "name": "Вышка №244",
     "desc": "Владелец: Feo_Zotti",
+    "type": "vishka"
+  },
+  {
+    "x": -716,
+    "y": 1866,
+    "name": "Вышка №243",
+    "desc": "Владелец: Raccoon_Demure",
+    "type": "vishka"
+  },
+  {
+    "x": 198,
+    "y": 3292,
+    "name": "Вышка №247",
+    "desc": "Владелец: Hazard_Demure",
     "type": "vishka"
   }
 ]
